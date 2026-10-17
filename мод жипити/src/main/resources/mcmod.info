@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hbmcompass",
+  "name": "HBM Explorer's Compass",
+  "description": "Special Structure Finder Compass for HBM's Nuclear Tech Mod Extended (1.12.2).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HBM_Custom_Builder"],
+  "credits": "Designed for _NTM-Extended-1.12.2-3.0.3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
